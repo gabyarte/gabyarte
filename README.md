@@ -32,6 +32,8 @@
 <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
 <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
 <a href="https://hadoop.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a>
+<a href="https://spark.apache.org/" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/apache_spark_logo_icon_170560.png" alt="apache-spark" width="40" height="40"/> </a>
+<a href="https://flink.apache.org/" target="_blank"> <img src="https://dwglogo.com/wp-content/uploads/2017/11/Apache_Flink_squirrel_logo.png" alt="flink" width="40" height="40"/> </a>
 </a> <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a>
 <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
 <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
@@ -39,5 +41,5 @@
 
 ### **Personal Statistics**
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabyarte&show_icons=true&locale=en&layout=compact" alt="gabyarte" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gabyarte&show_icons=true&locale=en" alt="gabyarte" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=gabyarte&show_icons=true&locale=en" alt="gabyarte" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gabyarte&" alt="gabyarte" /></p>
