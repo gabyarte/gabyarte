@@ -9,8 +9,8 @@
 
 ### **About me**
 
-- 🔭 I’m currently working on Prosperia Social (trying to make the world better 😇), soon to be starting in Garaje de Ideas
-- 🌱 I’m currently learning Java and Scala... You can see my repos with Flink examples 😉
+- 🔭 I’m currently working in Garaje de Ideas as a Data Engineer
+- 🌱 I’m currently learning Java and Scala... You can see my repos and look for some Flink, Spark and Scala examples 😉
 - 💬 Ask me about **python**, **cinema** and **music** (although you may not like my opinions on the last two topics 😜)
 - 📫 How to reach me: gabyarte2@gmail.com
 - 😄 Pronouns: she / her
