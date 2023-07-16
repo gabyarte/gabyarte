@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋. I'm Gabriela 😄</h1>
-<h3 align="center">A passionate data scientist</h3>
+<h3 align="center">Data scientist | Data Engineer</h3>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/gabriela-arguelles/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gabriela-arguelles" height="30" width="40" /></a>
@@ -9,8 +9,7 @@
 
 ### **About me**
 
-- 🔭 I’m currently working in Garaje de Ideas as a Data Engineer
-- 🌱 I’m currently learning Java and Scala... You can see my repos and look for some Flink, Spark and Scala examples 😉
+- 🔭 I’m currently working in Bluetab, an IBM company as a Data Engineer
 - 💬 Ask me about **python**, **cinema** and **music** (although you may not like my opinions on the last two topics 😜)
 - 📫 How to reach me: gabyarte2@gmail.com
 - 😄 Pronouns: she / her
